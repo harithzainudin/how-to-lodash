@@ -1,0 +1,23 @@
+{
+  "name": "how-to-lodash",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <a href=\"https://github.com/harithzainudin/how-to-lodash\">     <img src=\"images/lodash.png\" alt=\"Lodash logo\" width=\"80\" height=\"80\">   </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harithzainudin/how-to-lodash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harithzainudin/how-to-lodash/issues"
+  },
+  "homepage": "https://github.com/harithzainudin/how-to-lodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
