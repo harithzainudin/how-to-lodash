@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/harithzainudin/how-to-lodash">
     <img src="images/lodash.png" alt="Lodash logo" width="80" height="80">
   </a>
 
@@ -21,10 +21,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <ul>
-      </ul>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -49,7 +45,7 @@ Copy the repo in your local and just run any file that you would like.
 
 You need to run below command to install all the dependencies in this repo.
 
-* installing all the dependencies
+- installing all the dependencies
   ```sh
   npm i
   ```
@@ -91,7 +87,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Harith Zainudin - [@twitter_handle](https://twitter.com/twitter_handle) - harithzainudin@gmail.com
+Harith Zainudin - harithzainudin@gmail.com
 
 Project Link: [https://github.com/harithzainudin/how-to-lodash](https://github.com/harithzainudin/how-to-lodash)
 
@@ -101,6 +97,6 @@ Project Link: [https://github.com/harithzainudin/how-to-lodash](https://github.c
 
 ## Acknowledgments
 
-* [Lodash Website](https://lodash.com/)
+- [Lodash Website](https://lodash.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
