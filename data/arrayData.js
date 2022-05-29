@@ -34,8 +34,11 @@ const countries = [
   "Korea",
 ];
 
+const randomWord = ["", null, undefined, 0, "Harith", "Malaysia"];
+
 module.exports = {
   myClassmates,
   countries,
   classmatesInfo,
+  randomWord
 };
