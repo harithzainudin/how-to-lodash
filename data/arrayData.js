@@ -1,4 +1,5 @@
 const myClassmates = ["John", "Jane", "Jack", "Jill", "Joe"];
+const mySenior = ["Alice", "Bob", "Charlie", "David", "Eve"];
 const classmatesInfo = [
   {
     name: "John",
@@ -40,5 +41,6 @@ module.exports = {
   myClassmates,
   countries,
   classmatesInfo,
-  randomWord
+  randomWord,
+  mySenior,
 };
